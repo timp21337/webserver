@@ -1,0 +1,5 @@
+A mildly updated copy of the 19997 webserver from Sun at 
+http://java.sun.com/developer/technicalArticles/Networking/Webserver/
+
+mvn clean install
+java -jar target/webserver-1.1.jar
