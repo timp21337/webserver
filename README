@@ -1,4 +1,4 @@
-A mildly updated copy of the 19997 webserver from Sun at 
+A mildly updated copy of the 1997 webserver-in-one-file from Sun at 
 http://java.sun.com/developer/technicalArticles/Networking/Webserver/
 
 mvn clean install
